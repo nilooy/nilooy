@@ -16,14 +16,25 @@
       <a align="right" href="https://nilooy.dev/about">
       <img align="right" src="https://user-images.githubusercontent.com/32486682/156157340-82084377-296b-4e71-9c87-63c6ad64bdd9.svg" width="500" alt="Nilooy website Hello img"/>
       </a>
-      
    </div>
    <br/>
-   <div align="center">
-      <img  align="center" src="https://user-images.githubusercontent.com/32486682/156160366-4fac767f-a374-43f7-9940-d5ae7ce1ebd2.png" width="1300" alt="Niloy's Dev        Card"/>
-   </div>
-</div>
-
-# A Coder👨‍💻, a Dreamer💭 and a Believer💪 ...
+   
+   # A Coder👨‍💻, a Dreamer💭 and a Believer💪 ...
 
 > I'm a Full-stack developer based in Turin, Italy. I am in love with JavaScript and the more i use it, the more amazing it becomes to me. Though i have a long way to go, i really feel the power of coding and came a long way since i started my journey. Currently, I'm focused on MERN Stack. NodeJs has become the most favorite framework/runtime library of mine and React is the best frontend framework i have ever learnt. (Just a personal choice!).<br><br>Apart from coding, i love travelling and also draw futuristic car models in my spare time.
+
+</div>
+
+   # Skills🥇
+
+<div align="center">
+   <img  align="center" src="https://user-images.githubusercontent.com/32486682/156167725-e7e38076-50b5-4555-9db5-15d6d95ec67f.svg" width="700" alt="Niloy's Dev        Card"/>
+</div>
+<div align="center">
+   <img  align="center" src="https://user-images.githubusercontent.com/32486682/156167926-b60c2d7c-0368-4032-a1ac-ad1917d010b1.svg" width="700" alt="Niloy's Dev        Card"/>
+</div>
+<div align="center">
+   <img  align="center" src="https://user-images.githubusercontent.com/32486682/156167965-11de8cca-d196-482e-8338-a1a2eaef3f00.svg" width="700" alt="Niloy's Dev        Card"/>
+</div>
+
+

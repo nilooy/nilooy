@@ -21,7 +21,7 @@
    
    # A Coder👨‍💻, a Dreamer💭 and a Believer💪 ...
 
-> I'm a Full-stack developer based in Turin, Italy. I am in love with JavaScript and the more i use it, the more amazing it becomes to me. Though i have a long way to go, i really feel the power of coding and came a long way since i started my journey. Currently, I'm focused on MERN Stack. NodeJs has become the most favorite framework/runtime library of mine and React is the best frontend framework i have ever learnt. (Just a personal choice!).<br><br>Apart from coding, i love travelling and also draw futuristic car models in my spare time.
+> I'm a Full-stack engineer based in Turin, Italy. I am in love with JavaScript and the more i use it, the more amazing it becomes to me. Though i have a long way to go, i really feel the power of coding and came a long way since i started my journey. Currently, I'm focused on MERN Stack. NodeJs has become the most favorite framework/runtime library of mine and React is the best frontend framework i have ever learnt. (Just a personal choice!).<br><br>Apart from coding, i love travelling and also draw futuristic car models in my spare time.
 
 </div>
 

@@ -10,9 +10,7 @@
 </br>
 <div>
    <div>
-      <a align="left" href="https://app.daily.dev/nilooy">
-      <img src="https://api.daily.dev/devcards/e82e7824651646d28d83816d38addc91.png?r=k7p" width="300" alt="Niloy's Dev Card"/>
-      </a>
+   <a href="https://app.daily.dev/nilooy"><img src="https://api.daily.dev/devcards/e82e7824651646d28d83816d38addc91.png?r=dkm" width="400" alt="Niloy's Dev Card"/></a>
       <a align="right" href="https://nilooy.dev/about">
       <img align="right" src="https://user-images.githubusercontent.com/32486682/156157340-82084377-296b-4e71-9c87-63c6ad64bdd9.svg" width="500" alt="Nilooy website Hello img"/>
       </a>

@@ -1,9 +1,9 @@
 <div align='center'>
    <a href="https://twitter.com/nil_ooy">
-   <img align="center" alt="Twitter Profile of nil_ooy" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+   <img align="center" alt="Twitter Profile of nil_ooy" width="28px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" />
    </a>
    <a href="https://www.linkedin.com/in/rezwanferdousniloy">
-   <img align="center" alt="Niloy's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img align="center" alt="Niloy's LinkedIN" width="28px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
    </a>
 </div>
 <br/>

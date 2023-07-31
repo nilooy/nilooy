@@ -31,8 +31,5 @@
 <div align="center">
    <img  align="center" src="https://user-images.githubusercontent.com/32486682/156167926-b60c2d7c-0368-4032-a1ac-ad1917d010b1.svg" width="700" alt="Niloy's Dev        Card"/>
 </div>
-<div align="center">
-   <img  align="center" src="https://user-images.githubusercontent.com/32486682/156167965-11de8cca-d196-482e-8338-a1a2eaef3f00.svg" width="700" alt="Niloy's Dev        Card"/>
-</div>
 
 
